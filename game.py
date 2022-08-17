@@ -5,10 +5,6 @@ from board import BoardEnv
 import helper
 import time
 
-# Alex Thwin
-# athwin
-# CSE 140
-
 
 #   This is the SnakeGame class you'll be working with.
 #   It first initializes based on the default conditions.
